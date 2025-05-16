@@ -17,7 +17,7 @@ Týmové rozhodování je proces, při kterém skupina lidí společně analyzuj
 
 **Příklad z praxe:** Marketingový tým ve firmě pořádá brainstormingové sezení s cílem vymyslet název pro nový produkt. Během 30 minut členové týmu volně navrhují jakékoli názvy, které je napadnou, a zapisují je na tabuli. Po skončení sezení tým společně projde všechny návrhy, vyřadí ty zjevně nevhodné a z užšího výběru pak hlasováním nebo diskusí vybere finální název.
 
-![](..\obr\brainstorming.jpg)
+![](../../obr\brainstorming.jpg)
 
 ## 2. Nominální skupinová technika (NGT)
 
@@ -34,7 +34,7 @@ Týmové rozhodování je proces, při kterém skupina lidí společně analyzuj
 
 **Příklad z praxe:** Oddělení lidských zdrojů chce identifikovat klíčové faktory pro zlepšení spokojenosti zaměstnanců. Použijí NGT. Nejprve každý člen týmu sepíše své návrhy. Poté se návrhy postupně prezentují a zapisují. Následuje diskuse k ujasnění. Nakonec každý člen anonymně přidělí 5 bodů nejdůležitějšímu faktoru, 4 body druhému atd. Faktory s nejvyšším součtem bodů jsou pak prioritizovány pro další opatření.
 
-![](..\obr\ngt.png)
+![](../../obr\ngt.png)
 
 ## 3. Delfská metoda (Delphi Technique)
 
@@ -52,7 +52,7 @@ Týmové rozhodování je proces, při kterém skupina lidí společně analyzuj
 
 **Příklad z praxe:** Vláda chce odhadnout budoucí vývoj poptávky po určitém typu obnovitelné energie na dalších 20 let. Sestaví panel expertů z oblasti energetiky, ekonomie a technologie. Těmto expertům rozešle dotazník s otázkami na klíčové faktory ovlivňující poptávku a jejich odhadovaný vývoj. Odpovědi jsou anonymně zpracovány a experti v dalších kolech dostávají zpětnou vazbu a možnost upravit své odhady. Výsledkem je expertní prognóza, která slouží jako podklad pro strategické plánování v energetice.
 
-![](..\obr\delphi.jpeg)
+![](../../obr\delphi.jpeg)
 
 ## Další možné pochopení metod týmového rozhodování
 

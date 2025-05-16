@@ -51,7 +51,7 @@ Klasické teorie managementu položily základy moderního chápání řízení 
 *   **Centralizace:** Určuje míru, do jaké jsou rozhodovací pravomoci soustředěny u vrcholového vedení nebo naopak delegovány na nižší úrovně.
 *   **Spravedlivé odměňování:** Odměny by měly být spravedlivé a motivující pro zaměstnance i organizaci.
 
-![Schéma školy správního řízení](..\obr\skola_sprav_rizeni.png)
+![Schéma školy správního řízení](../../obr\skola_sprav_rizeni.png)
 
 **Příklad z praxe:** Struktura většiny dnešních velkých korporací, s jasně definovanými odděleními (marketing, finance, výroba), hierarchií řízení a stanovenými pravomocemi a odpovědnostmi manažerů, odráží Fayolovy principy. Například, generální ředitel (CEO) má celkovou odpovědnost a pravomoc, zatímco vedoucí jednotlivých oddělení mají pravomoci v rámci svých specializací a odpovídají za jejich výsledky.
 

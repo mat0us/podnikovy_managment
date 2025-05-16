@@ -12,7 +12,7 @@ Podle prezentace "Rozhodování" (Chládková, strana 8), je riziko definováno 
 
 Manažeři se liší ve svém postoji a ochotě podstupovat riziko. Tento přístup ovlivňuje jejich rozhodovací procesy a strategie. Na základě dostupných materiálů (Chládková, "Rozhodování", strana 9 a 10) můžeme identifikovat několik typů manažerů:
 
-![alt text](../obr/manager.png)
+![alt text](..\../obr/manager.png)
 
 1.  **Odpůrce rizika (Risk Avoider):**
     *   Tito manažeři mají tendenci vyhýbat se rizikovým situacím, i když by potenciální zisk mohl být vysoký. Preferují jistotu a stabilitu.

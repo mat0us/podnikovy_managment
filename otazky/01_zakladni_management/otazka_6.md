@@ -17,7 +17,7 @@ Identita podniku (corporate identity) a image podniku (corporate image) jsou dva
 **Vztah:**
 Identita podniku je **základem (vstupem)** pro image podniku. Podnik se snaží prostřednictvím své identity (designu, komunikace, kultury, produktů) vytvořit určitý dojem. Image je pak **výsledkem (výstupem)** toho, jak je tato snaha vnímána a interpretována různými cílovými skupinami. Ideálně by měla být image co nejblíže zamýšlené identitě. Pokud existuje velký rozpor mezi tím, jak se podnik prezentuje (identita) a jak je vnímán (image), může to vést k nedůvěře a poškození reputace.
 
-![](..\obr\identita.png)
+![](../../obr\identita.png)
 
 Stručně řečeno: **Identita je to, co podnik říká, že je. Image je to, co si o něm myslí ostatní.**
 

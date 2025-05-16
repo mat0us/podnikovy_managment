@@ -9,14 +9,14 @@ PESTE (nebo častěji PESTEL/PESTLE) analýza a SWOT analýza jsou dva základn�
 *   **Účel:** Pomáhá pochopit širší kontext, ve kterém podnik operuje, identifikovat potenciální příležitosti a hrozby plynoucí z makroprostředí a předvídat budoucí trendy. Výstupy PESTEL analýzy často slouží jako vstup pro SWOT analýzu (zejména pro identifikaci příležitostí a hrozeb).
 *   **Časový horizont:** Často se zaměřuje na dlouhodobější trendy a změny.
 
-![Systemovy přístup](..\obr\pestel.png)
+![Systemovy přístup](../../obr\pestel.png)
 
 **SWOT analýza (Strengths, Weaknesses, Opportunities, Threats)**:
 *   **Zaměření:** Kombinuje analýzu **vnitřního prostředí** podniku (Silné stránky - Strengths, Slabé stránky - Weaknesses) s analýzou **vnějšího prostředí** (Příležitosti - Opportunities, Hrozby - Threats). Příležitosti a hrozby mohou být identifikovány právě pomocí PESTEL analýzy nebo analýzy odvětví (např. Porterův model pěti sil).
 *   **Účel:** Poskytuje komplexní pohled na současnou pozici podniku. Cílem je identifikovat, jak může podnik využít své silné stránky a příležitosti k překonání slabých stránek a eliminaci hrozeb. Slouží jako základ pro formulaci konkrétních strategií (např. strategie SO – využití silných stránek k získání příležitostí, strategie ST – využití silných stránek k odvrácení hrozeb atd.).
 *   **Časový horizont:** Může být použita pro krátkodobé i dlouhodobé strategické plánování.
 
-![Systemovy přístup](..\obr\swot.png)
+![Systemovy přístup](../../obr\swot.png)
 
 **Shrnutí klíčových rozdílů:**
 

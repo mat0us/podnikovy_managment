@@ -1,9 +1,54 @@
 # Otázka 28: Co je a k čemu slouží analýza citlivosti?
 
-Analýza citlivosti je metoda používaná v různých oblastech, včetně financí, projektového řízení, inženýrství a vědeckého modelování, k posouzení toho, jak změny v určitých vstupních proměnných nebo předpokladech ovlivňují výstup nebo výsledek daného modelu či systému. Jejím hlavním účelem je identifikovat klíčové proměnné, které mají největší dopad na výsledky, a pochopit míru této citlivosti. To umožňuje lépe porozumět nejistotám spojeným s modelem a činit informovanější rozhodnutí.
+**Analýza citlivosti** je technika používaná k určení, jak změny vstupních proměnných v modelu ovlivňují výstupní výsledky. Pomáhá pochopit, které vstupní faktory mají největší dopad na výsledky a jak se tyto výsledky mohou měnit při různých scénářích. Typicky se využívá například ve financích, projektovém řízení nebo inženýrství.
 
-Podstatou analýzy citlivosti je systematické měnění hodnoty jedné nebo více vstupních proměnných, zatímco ostatní proměnné jsou drženy konstantní (v případě jednorozměrné analýzy) nebo se mění současně (v případě vícerozměrné analýzy). Sleduje se, jak tyto změny ovlivňují sledovaný výstupní ukazatel, například čistou současnou hodnotu (NPV) investičního projektu, dobu návratnosti, ziskovost, nebo jakýkoli jiný relevantní metrický údaj. Cílem je tedy určit, které vstupy jsou pro model nejkritičtější a jak velký rozptyl ve výsledcích mohou způsobit.
+---
 
-Analýza citlivosti slouží několika důležitým účelům. Zaprvé, pomáhá identifikovat rizikové faktory. Proměnné, na které je model nejcitlivější, představují největší zdroj nejistoty a potenciálního rizika. Manažeři se pak mohou zaměřit na přesnější odhad těchto proměnných nebo na vývoj strategií pro zmírnění jejich negativního dopadu. Zadruhé, analýza citlivosti zlepšuje pochopení modelu tím, že ukazuje, jak jednotlivé části systému spolu interagují a ovlivňují celkový výsledek. Zatřetí, podporuje rozhodování tím, že poskytuje informace o tom, jak by se výsledek mohl změnit za různých scénářů (např. pesimistický, realistický, optimistický). To umožňuje lépe posoudit robustnost plánů a strategií.
+## Hlavní účely analýzy citlivosti
 
-Existuje několik metod provádění analýzy citlivosti. Jednoduchá metoda spočívá v postupné změně jedné proměnné o určité procento (např. ±10 %) a sledování dopadu na výstup. Pokročilejší metody zahrnují tvorbu scénářů, kde se kombinují různé úrovně více proměnných, nebo použití simulací, jako je metoda Monte Carlo, která umožňuje analyzovat vliv mnoha proměnných současně s přiřazením pravděpodobnostních rozdělení jejich hodnotám. Výsledky analýzy citlivosti se často prezentují graficky, například pomocí tornado diagramů, které vizuálně znázorňují relativní citlivost výstupu na jednotlivé vstupní proměnné. Analýza citlivosti je tedy klíčovým nástrojem pro řízení rizik, optimalizaci a robustní rozhodování v podmínkách nejistoty.
+- **Identifikace klíčových proměnných:** Zjistí, které vstupy mají největší vliv na výsledek.
+- **Lepší pochopení modelu:** Ukáže, jak spolu proměnné souvisí a ovlivňují výsledek.
+- **Podpora rozhodování:** Umožní posoudit, jak by se výsledek změnil při různých scénářích (optimistický, realistický, pesimistický).
+- **Řízení rizik:** Pomáhá zaměřit se na nejrizikovější faktory a navrhnout opatření.
+
+---
+
+## Příklady použití
+
+- **Vyhodnocení významu jednotlivých položek ekonomického výsledku**
+- **Volba mezi alternativními projekty:**  
+    - Určení pravděpodobnosti určitého stavu okolí, pro který jedna z alternativ poskytuje nejlepší očekávaný výnos  
+    - Pokud jsou některé alternativy rovnocenné, může pomoci informace o pravděpodobnosti
+- **Možný vývoj projektu při změnách vstupních parametrů**
+- **Citlivost zisku na změnu faktorů, které ho ovlivňují**
+
+---
+
+## Jak analýza citlivosti probíhá?
+
+1. **Změna jedné proměnné:** Ostatní proměnné jsou konstantní, sleduje se dopad na výstup.
+2. **Změna více proměnných najednou:** Kombinují se různé scénáře.
+3. **Simulace (např. Monte Carlo):** Zkoumá se vliv mnoha proměnných s různými pravděpodobnostmi.
+
+---
+
+## Ukázková tabulka analýzy citlivosti
+
+| Položka                | Počáteční hodnota | Zlepšení o 10% | Změna faktoru | Nová hodnota zisku [Kč] | Změna zisku [%] |
+|------------------------|:----------------:|:--------------:|:-------------:|:-----------------------:|:---------------:|
+| **Objem prodeje [ks]** |      2 500       |     2 750      |     250       |        492 500          |     **15,9**    |
+| **Prodejní cena [Kč]** |       650        |      715       |      65       |        587 500          |     **38,2**    |
+| **Variabilní náklady [Kč]** |    380    |      342       |     -38       |        520 000          |     **22,4**    |
+| **Fixní náklady [Kč]** |    250 000       |   225 000      |   -25 000     |        450 000          |     **5,9**     |
+
+---
+
+## Příklady výstupů
+
+- **Tornado diagram:** Graficky ukazuje, které proměnné mají největší vliv.
+- **Tabulky scénářů:** Přehledně zobrazují výsledky pro různé kombinace vstupů.
+
+---
+
+**Shrnutí:**  
+Analýza citlivosti je důležitý nástroj pro pochopení nejistot, řízení rizik a lepší rozhodování v nejistých podmínkách.

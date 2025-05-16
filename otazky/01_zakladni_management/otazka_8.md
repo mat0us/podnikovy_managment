@@ -16,7 +16,7 @@ Tento model vyvinula poradenská firma McKinsey. Představuje komplexní pohled 
 * **Styl vedení (Style)** – způsob řízení a firemní kultura
 * **Sdílené hodnoty (Shared Values)** – základní přesvědčení a principy
 
-![](..\obr\model7s.jpg)
+![](../../obr\model7s.jpg)
 
 ➡ Cílem je dosáhnout souladu mezi jednotlivými prvky, protože změna jednoho ovlivňuje ostatní.
 
@@ -55,7 +55,7 @@ Michael Porter definoval tuto metodu jako způsob identifikace činností, kter�
 * **Lidské zdroje**
 * **Firemní infrastruktura**
 
-![](..\obr\porter.png)
+![](../../obr\porter.png)
 
 ➡ Analýza ukazuje, které činnosti podniku jsou klíčové pro tvorbu hodnoty, a kde je prostor pro zlepšení nebo úspory.
 

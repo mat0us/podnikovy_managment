@@ -1,17 +1,27 @@
 # Otázka 27: Popište model Kano.
 
-Kano model, vyvinutý v 80. letech 20. století profesorem Noriaki Kanem, je teorie produktového vývoje a zákaznické spokojenosti, která poskytuje rámec pro pochopení toho, jak různé vlastnosti produktu nebo služby ovlivňují spokojenost zákazníků. Tento model umožňuje organizacím efektivně prioritizovat vývojové úsilí tím, že klasifikuje preference zákazníků, respektive atributy produktu, do několika odlišných kategorií podle jejich vlivu na spokojenost. Pochopení těchto kategorií pomáhá firmám lépe zacílit své zdroje na vlastnosti, které přinášejí největší hodnotu zákazníkům.
+Kano model, vyvinutý v 80. letech 20. století profesorem Noriaki Kanem, je teorie produktového vývoje a zákaznické spokojenosti, která poskytuje rámec pro pochopení toho, jak různé vlastnosti produktu nebo služby ovlivňují spokojenost zákazníků. Tento model umožňuje organizacím efektivně prioritizovat vývojové úsilí tím, že klasifikuje preference zákazníků, respektive atributy produktu, do několika odlišných kategorií podle jejich vlivu na spokojenost.
 
-Základní myšlenkou modelu je, že ne všechny atributy produktu mají stejný dopad na spokojenost zákazníka. Některé jsou považovány za samozřejmost, jiné přímo ovlivňují míru spokojenosti a další mohou zákazníka nadchnout, i když je původně neočekával. Kano model typicky rozlišuje pět hlavních kategorií atributů:
+**Kategorie atributů podle modelu Kano:**
 
-1.  **Základní požadavky (Must-be Quality / Basic Expectations):** Toto jsou atributy, které zákazníci považují za naprostou samozřejmost a jejich přítomnost berou jako standard. Pokud jsou tyto požadavky splněny, zákazník je pouze neutrální, protože je očekával. Avšak pokud tyto základní atributy chybí nebo jsou nedostatečně naplněny, zákazník bude velmi nespokojený. Příkladem může být funkční brzda u automobilu nebo čistý pokoj v hotelu. Tyto požadavky jsou v podstatě vstupenkou na trh.
+- **Základní požadavky (Must-be Quality / Basic Expectations):** Samozřejmosti, jejichž absence vede k nespokojenosti.
+- **Výkonové požadavky (One-dimensional Quality / Performance Attributes):** Čím více jsou naplněny, tím větší spokojenost.
+- **Atraktivní požadavky (Attractive Quality / Excitement Attributes):** Neočekávané prvky, které potěší, ale jejich absence nevadí.
+- **Neutrální požadavky (Indifferent Quality):** Nemají vliv na spokojenost.
+- **Obrácené požadavky (Reverse Quality):** Některým zákazníkům vadí, jiným vyhovují.
 
-2.  **Výkonové požadavky (One-dimensional Quality / Performance Attributes):** U těchto atributů platí, že čím více jsou naplněny, tím spokojenější zákazník je, a naopak, čím méně jsou naplněny, tím je zákazník nespokojenější. Spokojenost je zde přímo úměrná úrovni výkonu daného atributu. Firmy často soutěží právě v těchto charakteristikách. Příkladem může být spotřeba paliva u automobilu, rychlost internetového připojení nebo výdrž baterie mobilního telefonu.
+**Přehled kategorií v tabulce:**
 
-3.  **Atraktivní požadavky (Attractive Quality / Excitement Attributes):** Tyto atributy přinášejí zákazníkovi potěšení a nadšení, pokud jsou přítomny, ale jejich absence nevyvolává nespokojenost, protože je zákazník neočekával. Často se jedná o inovativní prvky, které odlišují produkt od konkurence a mohou vést k vysoké míře loajality. Příkladem může být neočekávaný upgrade do vyšší třídy v letadle nebo originální designový prvek produktu.
+| Kategorie                | Dopad na spokojenost | Příklad                                 |
+|--------------------------|----------------------|------------------------------------------|
+| Základní požadavky       | Absence = nespokojenost, přítomnost = neutrální | Funkční brzda u auta                    |
+| Výkonové požadavky       | Více = větší spokojenost, méně = nespokojenost  | Výdrž baterie, rychlost internetu        |
+| Atraktivní požadavky     | Přítomnost = nadšení, absence = nevadí          | Neočekávaný upgrade, inovativní design   |
+| Neutrální požadavky      | Nemají vliv                                    | Barva vnitřních komponent motoru         |
+| Obrácené požadavky       | Někomu vadí, jinému vyhovují                   | Složitost funkcí vs. jednoduchost        |
 
-4.  **Neutrální požadavky (Indifferent Quality):** Přítomnost nebo absence těchto atributů nemá na spokojenost zákazníka žádný významný vliv. Zákazníci si jich buď nevšímají, nebo je nepovažují za důležité. Identifikace těchto atributů je pro firmu přínosná, protože může snížit náklady tím, že se na ně nebude zbytečně soustředit. Příkladem může být barva vnitřních komponentů motoru, která není pro zákazníka viditelná ani relevantní.
+Zařazení atributů se může v čase měnit podle vývoje trhu a očekávání zákazníků.
 
-5.  **Obrácené požadavky (Reverse Quality):** Existují i atributy, jejichž přítomnost může u některých zákazníků vyvolat nespokojenost, zatímco jejich absence je vnímána pozitivně. To znamená, že ne všichni zákazníci mají stejné preference. Příkladem může být příliš mnoho složitých funkcí u technologického produktu pro uživatele, který preferuje jednoduchost.
+---
 
-Je důležité si uvědomit, že zařazení atributů do jednotlivých kategorií není statické a může se v čase měnit. To, co bylo kdysi atraktivním požadavkem (např. dálkové ovládání k televizi), se může postupem času stát výkonovým a nakonec i základním požadavkem, jak se mění očekávání zákazníků a standardy na trhu. Kano model tak poskytuje dynamický nástroj pro analýzu a řízení zákaznické spokojenosti v kontextu vývoje produktů a služeb.
+![](../../obr\kano.png)

@@ -56,9 +56,9 @@ Post-klasické teorie managementu navazují na klasické školy, ale reflektují
 
 **Příklad z praxe:** Při zavádění nového informačního systému (např. ERP – Enterprise Resource Planning) ve firmě je nutné uplatnit systémový přístup. Nestačí se zaměřit pouze na technickou implementaci softwaru, ale je třeba zvážit jeho dopad na všechny dotčené útvary (finance, výroba, prodej, lidské zdroje), na stávající procesy, na zaměstnance (potřeba školení) a na vztahy se zákazníky a dodavateli. Úspěch implementace závisí na koordinaci všech těchto prvků.
 
-![Systemovy přístup](..\obr\systemovy_pristup.png)
+![Systemovy přístup](../../obr\systemovy_pristup.png)
 
-![Teorie chaosu](..\obr\teorie_chaosu.png)
+![Teorie chaosu](../../obr\teorie_chaosu.png)
 
 ## 5. Procesní přístupy
 
@@ -79,9 +79,9 @@ Post-klasické teorie managementu navazují na klasické školy, ale reflektují
 
 **Příklad z praxe:** Implementace systému řízení kvality podle normy ISO 9001 je typickým příkladem uplatnění procesního přístupu. Organizace musí identifikovat, dokumentovat, implementovat a neustále zlepšovat své klíčové procesy (např. proces vývoje nového produktu, proces vyřizování objednávek, proces řízení reklamací), aby dosáhla požadované úrovně kvality a spokojenosti zákazníků.
 
-![Procesní přístup](..\obr\procesni_pristup.png)
+![Procesní přístup](../../obr\procesni_pristup.png)
 
-![Procesní přístup V2](..\obr\procesni_pristup2.png)
+![Procesní přístup V2](../../obr\procesni_pristup2.png)
 ---
 **Použité zdroje:**
 

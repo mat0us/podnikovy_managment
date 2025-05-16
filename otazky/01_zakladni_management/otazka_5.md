@@ -23,7 +23,7 @@ Kombinací těchto dvou dimenzí vznikají **čtyři základní styly vedení**.
 
 Model Herseye a Blancharda se typicky znázorňuje jako graf, kde na horizontální ose je úroveň zralosti/připravenosti podřízeného (od nízké po vysokou) a na vertikálních osách jsou úrovně direktivního a podpůrného chování manažera (od nízké po vysokou). Křivka ve tvaru zvonu pak prochází čtyřmi kvadranty, z nichž každý reprezentuje jeden styl vedení vhodný pro danou úroveň zralosti.
 
-![](..\obr\situacni_rizeni.png)
+![](../../obr\situacni_rizeni.png)
 
 ### Úrovně zralosti podřízených (R - Readiness) a odpovídající styly vedení (S - Style)
 

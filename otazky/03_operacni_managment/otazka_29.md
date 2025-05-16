@@ -1,7 +1,36 @@
 # Otázka 29: Popište princip tlaku a metody, které se v jeho rámci používají.
 
-Princip tlaku (push system) v řízení výroby představuje tradiční přístup, kde se výrobní aktivity plánují a iniciují na základě předpokládané poptávky nebo stanoveného výrobního plánu, nikoliv na základě skutečné aktuální poptávky od následujícího výrobního stupně nebo konečného zákazníka. Materiál a rozpracované výrobky jsou „tlačeny“ skrze výrobní proces od jednoho pracoviště k druhému podle centrálního plánu. Každé pracoviště vyrábí díly nebo sestavy a posílá je na další pracoviště bez ohledu na to, zda je toto pracoviště připraveno je okamžitě zpracovat. Tento přístup je často spojován s hromadnou výrobou a snahou o maximální využití kapacit.
+## Princip tlaku (push systém)
 
-Charakteristickým rysem tlakového systému je tvorba zásob rozpracované výroby mezi jednotlivými pracovišti. Protože výroba na předcházejícím stupni není přímo řízena potřebami následujícího stupně, mohou se hromadit meziprodukty, pokud dojde k výkyvům v rychlosti zpracování nebo k poruchám. Plánování v tlakovém systému je obvykle centralizované a opírá se o prognózy poptávky, které nemusí být vždy přesné. To může vést buď k nedostatku výrobků, pokud je poptávka podceněna, nebo k nadměrným zásobám hotových výrobků, pokud je poptávka přeceněna.
+- Výroba je řízena na základě předem stanoveného plánu nebo prognózy poptávky, nikoliv podle aktuálních potřeb následujícího stupně výroby nebo zákazníka.
+- Materiál a výrobky jsou „tlačeny“ výrobním procesem podle centrálního plánu.
+- Časté je hromadění zásob mezi pracovišti, zejména pokud mají stroje různou kapacitu – před úzkým místem vznikají zásoby, protože předchozí pracoviště vyrábí rychleji než následující.
+- Plánování je centralizované, opírá se o odhady poptávky, což může vést k nadměrným nebo nedostatečným zásobám.
+- Typické pro hromadnou výrobu a plánované hospodářství.
 
-Metody, které se v rámci principu tlaku typicky používají, zahrnují především systémy plánování výrobních zdrojů (Manufacturing Resource Planning - MRP II) a jeho předchůdce, plánování materiálových potřeb (Material Requirements Planning - MRP I). Tyto systémy využívají kusovníky (Bill of Materials - BOM), stav zásob a hlavní výrobní plán (Master Production Schedule - MPS) k výpočtu potřebného množství materiálů a komponent a k naplánování výrobních příkazů pro jednotlivá pracoviště. Výrobní příkazy jsou pak uvolňovány do výroby v souladu s tímto plánem. Dalšími nástroji mohou být systémy pro řízení dílenských operací (Shop Floor Control) a různé metody prognózování poptávky. Systém BOA (BedarfsOrientierte Auftragsfreigabe – uvolňování zakázek dle potřeby) je také příkladem systému fungujícího na principu tlaku, i když se snaží optimalizovat uvolňování zakázek. Tlakový princip je typický pro plánované hospodářství, kde podniky vyrábějí dle stanoveného plánu a odbyt je prakticky zajištěn díky nedostatku zboží, ale může fungovat i v tržním hospodářství, pokud na trhu není vysoký převis nabídky nebo má výrobce silnou pozici (např. u módního zboží s vysokou poptávkou po novinkách).
+## Metody používané v rámci principu tlaku
+
+- **MRP (Material Requirements Planning)**
+    - Plánování materiálových potřeb na základě výrobního plánu.
+    - Hlavní vstupy:
+        - **BOM (Bill of Materials, kusovník):** seznam potřebných položek a jejich množství.
+        - **Plán výroby (MPS):** kolik a kdy se má vyrobit.
+        - **Aktuální stav zásob.**
+    - Plánování nebere v úvahu skutečný průběh výroby, ale vychází z plánu.
+
+- **Closed Loop MRP**
+    - Rozšíření MRP, kde se plánování průběžně upravuje podle skutečného stavu výroby.
+
+- **MRP II (Manufacturing Resource Planning)**
+    - Navazuje na MRP, zahrnuje i plánování kapacit a dalších zdrojů.
+    - Umožňuje výrazně snížit vázanost prostředků ve výrobě.
+    - Obsahuje podrobnější plánování výroby a kapacitní propočty.
+
+- **CRP (Capacity Requirement Planning)**
+    - Plánování kapacitních potřeb na základě výrobního plánu.
+
+- **Shop Floor Control**
+    - Řízení a sledování operací na dílně podle plánu.
+
+- **BOA (BedarfsOrientierte Auftragsfreigabe)**
+    - Uvolňování zakázek do výroby podle potřeby, stále v rámci principu tlaku.

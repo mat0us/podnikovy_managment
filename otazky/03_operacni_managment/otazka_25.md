@@ -1,7 +1,31 @@
-# Otázka 25: Popište Taguchiho přístup k vývoji produktu.
+# Otázka 25: Popište Taguchiho přístup k vývoji produktu
 
-Taguchiho přístup k vývoji produktu, často spojovaný s robustním designem a plánováním experimentů (Design of Experiments - DOE), představuje systematickou metodiku zaměřenou na minimalizaci variability výrobku nebo procesu a zvýšení jeho odolnosti vůči rušivým vlivům, známým jako šumové faktory. Tento přístup byl vyvinut Genichi Taguchim ve 40. letech 20. století a klade důraz na dosažení vysoké kvality při nízkých nákladech. Cílem je navrhnout produkty a procesy tak, aby konzistentně splňovaly požadavky zákazníka i za přítomnosti nekontrolovatelných faktorů, jako jsou změny v prostředí, opotřebení materiálu nebo lidské chyby.
+Taguchiho přístup k vývoji produktu je systematická metoda zaměřená na **minimalizaci variability** a **zvýšení odolnosti** výrobků a procesů vůči rušivým vlivům (tzv. šumové faktory). Hlavní cíle jsou **vysoká kvalita** a **nízké náklady**.
 
-Klíčovým prvkem Taguchiho metod je koncept ztrátové funkce kvality. Na rozdíl od tradičního pohledu, kde je produkt považován za kvalitní, pokud se jeho charakteristiky pohybují v rámci specifikovaných tolerančních mezí, Taguchi tvrdí, že jakákoli odchylka od cílové hodnoty vede ke ztrátě pro společnost i zákazníka. Tato ztráta roste kvadraticky se vzdáleností od cílové hodnoty. Minimalizace této ztráty je tedy hlavním cílem. Taguchiho přístup se snaží optimalizovat parametry produktu nebo procesu tak, aby byl co nejméně citlivý na variabilitu vstupních faktorů a rušivých vlivů, čímž se dosahuje robustnosti.
+## Hlavní principy Taguchiho přístupu
 
-Pro dosažení robustního designu využívá Taguchiho přístup ortogonální pole a poměr signálu k šumu (Signal-to-Noise ratio, S/N ratio) jako statistické míry výkonnosti. Ortogonální pole umožňují efektivně testovat vliv více faktorů na různých úrovních s minimálním počtem experimentů, což výrazně redukuje čas a náklady spojené s vývojem. Poměr S/N pak slouží k identifikaci takových nastavení parametrů, která maximalizují požadovaný signál (výkon) a minimalizují vliv šumu (variabilitu). Taguchiho metody se zaměřují na tři fáze návrhu: systémový návrh (koncepční návrh), parametrický návrh (optimalizace parametrů) a toleranční návrh (stanovení tolerancí). Důraz je kladen především na parametrický návrh, protože umožňuje dosáhnout robustnosti bez zvyšování nákladů na přesnější komponenty. Tento přístup je doporučen standardy jako QS 9000 a IATF 16949 a je podpůrným nástrojem metodik jako Six Sigma (v rámci DMAIC) a APQP (Advanced Product Quality Planning) ve fázi návrhu výrobku a procesu.
+- **Robustní design**: Navrhování produktů a procesů tak, aby byly co nejméně citlivé na změny prostředí, opotřebení nebo lidské chyby.
+- **Minimalizace ztrát**: Každá odchylka od cílové hodnoty znamená ztrátu pro zákazníka i společnost. Taguchiho **ztrátová funkce** ukazuje, že ztráta roste kvadraticky s odchylkou od cíle.
+- **Optimalizace parametrů**: Cílem je najít taková nastavení parametrů, která minimalizují vliv šumu a maximalizují výkon.
+
+## Klíčové nástroje
+
+- **Ortogonální pole**: Umožňují efektivně testovat více faktorů a jejich úrovní s minimálním počtem experimentů.
+- **Poměr signálu k šumu (S/N ratio)**: Statistická míra pro hodnocení výkonu a odolnosti vůči variabilitě.
+
+## Fáze návrhu podle Taguchiho
+
+1. **Systémový návrh** – koncepční návrh produktu nebo procesu.
+2. **Parametrický návrh** – optimalizace nastavení parametrů pro robustnost.
+3. **Toleranční návrh** – stanovení vhodných tolerancí bez zbytečného zvyšování nákladů.
+
+## Využití v praxi
+
+- Taguchiho metody jsou doporučovány standardy jako **QS 9000** a **IATF 16949**.
+- Jsou součástí metodik **Six Sigma** (DMAIC) a **APQP** při návrhu výrobků a procesů.
+
+**Shrnutí:** Taguchiho přístup pomáhá navrhovat produkty a procesy, které jsou stabilní, kvalitní a odolné vůči vnějším vlivům, a to efektivně a s nízkými náklady.
+
+![neco](../../obr/otazka_25_1.png)
+
+![](../../obr/otazka_25_2.png)
