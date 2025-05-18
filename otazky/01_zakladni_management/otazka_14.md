@@ -49,3 +49,5 @@
   - Testovací provoz: září - říjen 2024
   - Uvedení na trh: listopad 2024
   - Vyhodnocení prvních výsledků: leden 2025
+
+  [<- Domů](../../README.md)

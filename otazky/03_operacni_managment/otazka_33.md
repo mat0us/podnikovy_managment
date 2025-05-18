@@ -20,3 +20,5 @@
 - Každý zaměstnanec má svého „zákazníka“ a snaží se maximálně uspokojit jeho potřeby.
 - Důležitá je týmová spolupráce, princip „shora-dolů“, kroužky jakosti a seberozvoj vedoucích pracovníků.
 - Klíčové je zapojení všech zaměstnanců a systematické hledání příležitostí ke zlepšení.
+
+[<- Domů](../../README.md)

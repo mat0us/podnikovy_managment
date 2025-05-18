@@ -39,3 +39,7 @@
 29. [Otázka 29: Řízení projektů](otazky/03_operacni_managment/otazka_29.md)
 30. [Otázka 30: Lean Management](otazky/03_operacni_managment/otazka_30.md)
 31. [Otázka 31: Principy řízení zásob](otazky/03_operacni_managment/otazka_31.md)
+32. [Otázka 32: Plánování kapacit](otazky/03_operacni_managment/otazka_32.md)
+33. [Otázka 33: Řízení kvality](otazky/03_operacni_managment/otazka_33.md)
+34. [Otázka 34: Optimalizace procesů](otazky/03_operacni_managment/otazka_34.md)
+35. [Otázka 35: Informační systémy v managementu](otazky/03_operacni_managment/otazka_35.md)

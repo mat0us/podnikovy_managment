@@ -29,3 +29,5 @@ Taguchiho přístup k vývoji produktu je systematická metoda zaměřená na **
 ![neco](../../obr/otazka_25_1.png)
 
 ![](../../obr/otazka_25_2.png)
+
+[<- Domů](../../README.md)

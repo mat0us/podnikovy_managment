@@ -35,3 +35,4 @@ Firma XYZ, s.r.o., která se zabývá vedením účetnictví, má několik zamě
 
 *   DUDA, Jiří. *Pracovni_smlouva,_DPP,_DPC,_Svarc.pdf*. Interní materiály předmětu. (Citováno konkrétně ze stran 20-24).
 
+[<- Domů](../../README.md)

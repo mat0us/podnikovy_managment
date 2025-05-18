@@ -39,3 +39,4 @@ Je důležité si uvědomit, že zkušební doba není automatickou součástí 
 *   DUDA, Jiří. *Pracovni_smlouva,_DPP,_DPC,_Svarc.pdf*. Interní materiály předmětu. (Citováno konkrétně ze strany 7, § 35 ZP).
 *   Zákon č. 262/2006 Sb., zákoník práce, v platném znění. (Obecně jako primární zdroj právní úpravy zkušební doby).
 
+[<- Domů](../../README.md)

@@ -88,3 +88,4 @@ Post-klasické teorie managementu navazují na klasické školy, ale reflektují
 *   *EBC-POMA-P1.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o post-klasických teoriích managementu byly čerpány z tohoto zdroje.)
 *   POŠVÁŘ, Zdeněk a Helena CHLÁDKOVÁ, 2014. *Management*. 2. vyd. Brno: Mendelova univerzita v Brně. ISBN 978-80-7509-127-7. (Doplnění a rozšíření informací.)
 
+[<- Domů](../../README.md)

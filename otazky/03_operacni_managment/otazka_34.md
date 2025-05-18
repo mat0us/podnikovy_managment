@@ -15,3 +15,5 @@ Hlavní principy ISO 9000:
 ISO 9001 je nejznámější norma této rodiny a stanovuje konkrétní požadavky na QMS, jejichž splnění může být certifikováno. Další normy (např. ISO 9004, ISO 19011) poskytují rozšiřující doporučení a návody.
 
 ISO 9000 je tedy nástroj pro systematické řízení kvality, který pomáhá organizacím zlepšovat procesy, snižovat náklady a posilovat konkurenceschopnost. Je však třeba chápat jej jako základní rámec a začátek cesty ke skutečné spokojenosti zákazníků, nikoli jako záruku dokonalosti.
+
+[<- Domů](../../README.md)

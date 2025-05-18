@@ -37,3 +37,5 @@ Existují různé typy kanbanů, například výrobní kanban (autorizuje výrob
     Identifikuje a odstraňuje úzká místa ve výrobním procesu.
 
 Princip tahu je základním kamenem štíhlé výroby a jeho implementace vede k významnému zlepšení efektivity, snížení nákladů a zvýšení schopnosti reagovat na změny v poptávce.
+
+[<- Domů](../../README.md)

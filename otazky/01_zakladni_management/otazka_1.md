@@ -73,3 +73,4 @@ Klasické teorie managementu položily základy moderního chápání řízení 
 
 *   *EBC-POMA-P1.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o klasických teoriích managementu byly čerpány z tohoto zdroje.)
 
+[<- Domů](../../README.md)

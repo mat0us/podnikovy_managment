@@ -11,3 +11,5 @@ Hlavní charakteristiky modelu EFQM:
 - **Inspirace pro zlepšování:** Model poskytuje organizacím strukturovaný přístup a inspiraci k dalšímu rozvoji a zvyšování konkurenceschopnosti.
 
 Model EFQM je vhodný pro organizace, které hledají komplexní a osvědčený rámec pro řízení kvality a trvalé zlepšování.
+
+[<- Domů](../../README.md)

@@ -26,16 +26,28 @@ Obsahem delegování je přenesení:
 
 Aby bylo delegování efektivní, je třeba dodržovat určité zásady:
 
-1.  **Jasné vymezení úkolu:** Úkol musí být jasně, srozumitelně a konkrétně definován. Podřízený musí vědět, co se od něj očekává, jaký má být výsledek a jaké jsou termíny.
-2.  **Soulad pravomoci a odpovědnosti:** Podřízený musí dostat dostatečnou pravomoc k tomu, aby mohl splnit svěřený úkol a nést za něj odpovědnost. Nemá smysl delegovat odpovědnost bez odpovídající pravomoci.
-3.  **Výběr správného pracovníka:** Úkoly by měly být delegovány na pracovníky, kteří mají potřebné schopnosti, znalosti, zkušenosti a motivaci k jejich splnění, nebo u kterých je žádoucí tyto schopnosti rozvíjet.
-4.  **Poskytnutí potřebných informací a zdrojů:** Podřízený musí mít přístup ke všem informacím a zdrojům nezbytným pro úspěšné splnění úkolu.
-5.  **Stanovení standardů výkonu a kontroly:** Musí být jasné, podle jakých kritérií bude výsledek hodnocen. Manažer by měl stanovit mechanismy kontroly, ale neměl by nadměrně zasahovat do práce podřízeného (vyhnout se tzv. "mikromanagementu").
-6.  **Obousměrná komunikace a zpětná vazba:** Manažer by měl být k dispozici pro konzultace, poskytovat podporu a pravidelnou zpětnou vazbu. Podřízený by měl mít možnost klást otázky a informovat o průběhu plnění úkolu.
-7.  **Důvěra v podřízeného:** Manažer musí projevit důvěru ve schopnosti podřízeného úkol zvládnout.
-8.  **Delegovat celé úkoly, pokud je to možné:** Delegování ucelených úkolů je motivující a umožňuje podřízenému vidět smysl své práce.
-9.  **Nepřipustit zpětné delegování:** Podřízení by se měli snažit řešit problémy samostatně a nevracet úkoly manažerovi při prvních obtížích (samozřejmě s výjimkou situací, kdy je pomoc manažera nezbytná).
-10. **Ocenění a uznání:** Po úspěšném splnění úkolu by mělo následovat ocenění a uznání.
+1.  **Jasné vymezení úkolu:** 
+    - Úkol musí být jasně, srozumitelně a konkrétně definován. 
+2.  **Soulad pravomoci a odpovědnosti:** 
+    - Podřízený musí dostat dostatečnou pravomoc k tomu, aby mohl splnit svěřený úkol a nést za něj odpovědnost. 
+3.  **Výběr správného pracovníka:** 
+    - Úkoly by měly být delegovány na pracovníky, kteří mají potřebné schopnosti, znalosti, zkušenosti a motivaci k jejich splnění, nebo u kterých je žádoucí tyto schopnosti rozvíjet.
+4.  **Poskytnutí potřebných informací a zdrojů:**
+    - Podřízený musí mít přístup ke všem informacím a zdrojům nezbytným pro úspěšné splnění úkolu.
+5.  **Stanovení standardů výkonu a kontroly:** 
+    - Musí být jasné, podle jakých kritérií bude výsledek hodnocen. 
+    - Manažer by měl stanovit mechanismy kontroly, ale neměl by nadměrně zasahovat do práce podřízeného (vyhnout se tzv. "mikromanagementu").
+6.  **Obousměrná komunikace a zpětná vazba:** 
+    - Manažer by měl být k dispozici pro konzultace, poskytovat podporu a pravidelnou zpětnou vazbu.   
+    - Podřízený by měl mít možnost klást otázky a informovat o průběhu plnění úkolu.
+7.  **Důvěra v podřízeného:** 
+    - Manažer musí projevit důvěru ve schopnosti podřízeného úkol zvládnout.
+8.  **Delegovat celé úkoly, pokud je to možné:** 
+    - Delegování ucelených úkolů je motivující a umožňuje podřízenému vidět smysl své práce.
+9.  **Nepřipustit zpětné delegování:** 
+    - Podřízení by se měli snažit řešit problémy samostatně a nevracet úkoly manažerovi při prvních obtížích (samozřejmě s výjimkou situací, kdy je pomoc manažera nezbytná).
+10. **Ocenění a uznání:** 
+    - Po úspěšném splnění úkolu by mělo následovat ocenění a uznání.
 
 ## Princip pevného a volného delegování na konkrétním příkladu
 
@@ -64,3 +76,4 @@ Volba mezi pevným a volným delegováním závisí na mnoha faktorech, včetně
 *   *Vedeni.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o delegování v kontextu stylů vedení.)
 *   Obecné znalosti z oblasti managementu a delegování.
 
+[<- Domů](../../README.md)

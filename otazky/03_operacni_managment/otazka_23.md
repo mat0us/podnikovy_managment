@@ -67,3 +67,4 @@ Tento jednoduchý SIPOC diagram jasně ukazuje, kdo a co je zapotřebí pro př�
 
 *   *Analýza procesů*. Prezentace EBC-POMA-S4-Procesy.pptx. Interní materiály předmětu. (Citováno konkrétně ze snímků 13, 14, 44 a inspirováno snímky 15-21).
 
+[<- Domů](../../README.md)

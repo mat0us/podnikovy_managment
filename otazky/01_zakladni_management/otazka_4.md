@@ -54,7 +54,7 @@ Týmové rozhodování je proces, při kterém skupina lidí společně analyzuj
 
 ![](../../obr\delphi.jpeg)
 
-## Další možné pochopení metod týmového rozhodování
+## Další možné metody týmového rozhodování
 
 ### Hlasování
 
@@ -80,3 +80,5 @@ Týmové rozhodování je proces, při kterém skupina lidí společně analyzuj
 
 - _Rozhodovani-zaklad.pptx_ [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o metodách týmového rozhodování byly čerpány z tohoto zdroje.)
 - FOTR, Jiří a Lenka ŠVECOVÁ, 2016. _Manažerské rozhodování: postupy, metody a nástroje_. Třetí, přepracované vydání. Praha: Ekopress. ISBN 978-80-87865-33-0. (Doplnění a rozšíření informací o principech a postupech metod.)
+
+[<- Domů](../../README.md)

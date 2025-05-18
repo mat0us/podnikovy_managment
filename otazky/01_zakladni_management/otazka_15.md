@@ -59,3 +59,5 @@
 - Výroba první série: 1 200 000 Kč
 - Marketingová kampaň: 800 000 Kč
 - Distribuce a logistika: 400 000 Kč
+
+[<- Domů](../../README.md)

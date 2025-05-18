@@ -6,7 +6,10 @@ PESTE (nebo častěji PESTEL/PESTLE) analýza a SWOT analýza jsou dva základn�
 
 **PESTEL analýza (Political, Economic, Social, Technological, Environmental, Legal)**:
 *   **Zaměření:** Analyzuje **vnější makroprostředí** podniku. Identifikuje klíčové externí faktory, které mohou ovlivnit celé odvětví nebo trh, na kterém podnik působí. Tyto faktory jsou obvykle mimo přímou kontrolu podniku.
-*   **Účel:** Pomáhá pochopit širší kontext, ve kterém podnik operuje, identifikovat potenciální příležitosti a hrozby plynoucí z makroprostředí a předvídat budoucí trendy. Výstupy PESTEL analýzy často slouží jako vstup pro SWOT analýzu (zejména pro identifikaci příležitostí a hrozeb).
+*   **Účel:**
+    - Pomáhá pochopit širší kontext, ve kterém podnik operuje
+    - Pomáhá identifikovat potenciální příležitosti a hrozby plynoucí z makroprostředí a předvídat budoucí trendy.
+    - Výstupy PESTEL analýzy často slouží jako vstup pro SWOT analýzu (zejména pro identifikaci příležitostí a hrozeb).
 *   **Časový horizont:** Často se zaměřuje na dlouhodobější trendy a změny.
 
 ![Systemovy přístup](../../obr\pestel.png)
@@ -18,14 +21,21 @@ PESTE (nebo častěji PESTEL/PESTLE) analýza a SWOT analýza jsou dva základn�
 
 ![Systemovy přístup](../../obr\swot.png)
 
-**Shrnutí klíčových rozdílů:**
+**SWOT matice pro EkoZahrada s.r.o. (transponovaná):**
 
-| Kritérium        | PESTEL analýza                                  | SWOT analýza                                                                 |
-| ---------------- | ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Fokus**        | Vnější makroprostředí                           | Vnitřní i vnější prostředí (mikro i makro)                                   |
-| **Kontrolovatelnost faktorů** | Faktory převážně nekontrolovatelné podnikem     | Silné a slabé stránky jsou kontrolovatelné, příležitosti a hrozby méně       |
-| **Hlavní cíl**   | Porozumění širšímu kontextu, identifikace trendů | Posouzení současné pozice podniku, základ pro tvorbu strategie               |
-| **Výstup**       | Seznam klíčových externích faktorů a jejich dopadů | Matice silných/slabých stránek, příležitostí/hrozeb, návrhy strategií        |
+|                  | **Silné stránky (Strengths)**<br>Vysoká kvalita, certifikace, vztahy s farmáři, funkční e-shop, znalý personál, věrní zákazníci, dobrá pověst | **Slabé stránky (Weaknesses)**<br>Vyšší ceny, omezené skladování, sezónnost, menší marketingový rozpočet, omezený dosah prodejny, nižší povědomí mimo stávající zákazníky |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **Příležitosti (Opportunities)**<br>Rostoucí poptávka po bio, rozšíření sortimentu, online marketing, spolupráce s lokálními podniky, dotace, rozvoj doručovacích služeb | **SO strategie**<br>- Využít kvalitní produkty a certifikace k oslovení nových zákazníků online.<br>- Rozšířit sortiment díky dobrým vztahům s farmáři.<br>- Využít pozitivní recenze v marketingu a získat dotace na rozvoj. | **WO strategie**<br>- Využít dotace na rozšíření skladovacích kapacit.<br>- Investovat do online marketingu pro zvýšení povědomí.<br>- Spolupracovat s lokálními podniky na rozšíření nabídky a sdílení nákladů. |
+| **Hrozby (Threats)**<br>Vstup supermarketů, růst cen energií, klimatické změny, legislativní změny, konkurence, snížení kupní síly | **ST strategie**<br>- Posílit značku a loajalitu zákazníků proti supermarketům.<br>- Diverzifikovat dodavatele kvůli klimatickým rizikům.<br>- Využít e-shop k rozšíření dosahu mimo lokální konkurenci. | **WT strategie**<br>- Optimalizovat náklady a logistiku pro snížení cen.<br>- Zaměřit se na loajalitu stávajících zákazníků v době ekonomické recese.<br>- Průběžně sledovat legislativu a připravit se na změny. |
+
+---
+
+| Kritérium                    | PESTEL analýza (Příklad)                        | SWOT analýza (Příklad)                                                      |
+|------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------|
+| **Fokus**                    | Vnější makroprostředí                           | Vnitřní i vnější prostředí (mikro i makro)                                  |
+| **Kontrolovatelnost faktorů**| Faktory převážně nekontrolovatelné podnikem     | Silné a slabé stránky jsou kontrolovatelné, příležitosti a hrozby méně      |
+| **Hlavní cíl**               | Porozumění širšímu kontextu, identifikace trendů| Posouzení současné pozice podniku, základ pro tvorbu strategie              |
+| **Výstup**                   | Seznam klíčových externích faktorů a jejich dopadů | Matice silných/slabých stránek, příležitostí/hrozeb, návrhy strategií    |
 
 ## Příklad faktorů PESTEL a SWOT pro vybraný podnik
 
@@ -109,3 +119,4 @@ Propojením těchto analýz může EkoZahrada s.r.o. lépe formulovat své strat
 *   *EBC-POMA-P2.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Doplnění informací o variantách PEST analýzy.)
 *   Obecné znalosti strategického managementu.
 
+[<- Domů](../../README.md)

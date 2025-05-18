@@ -65,3 +65,4 @@ Princip situačního vedení spočívá v flexibilitě manažera a jeho schopnos
 *   *Vedeni.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o situačním vedení, Hersey-Blanchardově modelu a stylech S1-S4 byly čerpány z tohoto zdroje.)
 *   Obecné znalosti z oblasti managementu a teorie vedení.
 
+[<- Domů](../../README.md)

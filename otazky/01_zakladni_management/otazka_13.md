@@ -67,3 +67,5 @@ Manažer týmu vývojářů praktikuje demokratický styl vedení:
 7. **Pravidelná komunikace:** Organizuje týdenní schůzky, kde všichni reportují stav práce a mohou přicházet s návrhy na zlepšení
 
 **Výsledky:** Tým se cítí zapojen do rozhodování, což zvyšuje motivaci a odpovědnost. Díky využití kolektivní inteligence vznikají inovativnější řešení. Současně je zachována jasná struktura vedení, kde manažer nese konečnou odpovědnost za projekt.
+
+[<- Domů](../../README.md)

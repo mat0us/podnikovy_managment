@@ -52,3 +52,5 @@
 
 **Shrnutí:**  
 Analýza citlivosti je důležitý nástroj pro pochopení nejistot, řízení rizik a lepší rozhodování v nejistých podmínkách.
+
+[<- Domů](../../README.md)

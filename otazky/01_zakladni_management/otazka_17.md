@@ -54,3 +54,4 @@ Představme si dvě softwarové firmy, které zvažují investici do vývoje nov
 *   KOONTZ, Harold a Heinz WEIHRICH. *Management*. Victoria Publishing, 1993. (Obecně jako zdroj pro preferenční křivky, zmíněno v prezentaci Chládkové)
 *   DONNELLY, James H., GIBSON, James L., IVANCEVICH, John M. *Management*. Grada Publishing, 1997. (Obecně jako zdroj pro postoje k riziku, zmíněno v prezentaci Chládkové)
 
+[<- Domů](../../README.md)

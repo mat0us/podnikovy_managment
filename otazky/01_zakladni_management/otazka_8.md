@@ -8,13 +8,13 @@ Analýza vnitřního prostředí podniku se zaměřuje na identifikaci faktorů 
 
 Tento model vyvinula poradenská firma McKinsey. Představuje komplexní pohled na organizaci a skládá se ze sedmi navzájem propojených prvků:
 
-* **Strategie** – jak chce firma dosahovat svých cílů
-* **Struktura** – organizační uspořádání podniku
-* **Systémy** – procesy a rutiny řízení
-* **Spolupracovníci (Staff)** – lidské zdroje a jejich kvalita
-* **Schopnosti (Skills)** – klíčové kompetence a know-how
-* **Styl vedení (Style)** – způsob řízení a firemní kultura
 * **Sdílené hodnoty (Shared Values)** – základní přesvědčení a principy
+    * **Struktura** – organizační uspořádání podniku
+    * **Strategie** – jak chce firma dosahovat svých cílů
+    * **Schopnosti (Skills)** – klíčové kompetence a know-how
+    * **Systémy** – procesy a rutiny řízení
+    * **Styl vedení (Style)** – způsob řízení a firemní kultura
+    * **Spolupracovníci (Staff)** – lidské zdroje a jejich kvalita
 
 ![](../../obr\model7s.jpg)
 
@@ -61,6 +61,25 @@ Michael Porter definoval tuto metodu jako způsob identifikace činností, kter�
 
 ---
 
+## 4. SWOT analýza
+
+SWOT analýza je jednoduchý a široce používaný nástroj pro zhodnocení vnitřních a vnějších faktorů ovlivňujících podnik. Název je akronymem pro čtyři oblasti:
+
+- **Strengths (Silné stránky)** – vnitřní přednosti, které dávají podniku výhodu (např. know-how, technologie, silná značka)
+- **Weaknesses (Slabé stránky)** – vnitřní nedostatky, které mohou podnik oslabit (např. nedostatek financí, slabá motivace zaměstnanců)
+- **Opportunities (Příležitosti)** – vnější faktory, které může podnik využít ve svůj prospěch (např. nové trhy, technologické trendy)
+- **Threats (Hrozby)** – vnější rizika, která mohou podnik ohrozit (např. konkurence, legislativní změny)
+
+SWOT analýza pomáhá vedení podniku lépe pochopit jeho pozici a připravit strategie, které využijí silné stránky a příležitosti a zároveň minimalizují slabé stránky a hrozby.
+
+| Silné stránky | Slabé stránky |
+|---------------|---------------|
+| ...           | ...           |
+
+| Příležitosti  | Hrozby        |
+|---------------|---------------|
+| ...           | ...           |
+
 ## Shrnutí
 
 | Metoda                | Zaměření                                    | Výsledek               |
@@ -68,6 +87,7 @@ Michael Porter definoval tuto metodu jako způsob identifikace činností, kter�
 | **7S (McKinsey)**     | Vnitřní sladění struktury, kultury a řízení | Rovnováha a efektivita |
 | **Klíčové faktory**   | Hodnocení hlavních oblastí podniku          | Silné/slabé stránky    |
 | **Hodnotový řetězec** | Analýza hodnototvorných činností            | Konkurenční výhoda     |
+| **SWOT analýza**      | Identifikace silných/slabých stránek a příležitostí/hrozeb | Strategické doporučení |
 
 ---
 
@@ -76,3 +96,5 @@ Michael Porter definoval tuto metodu jako způsob identifikace činností, kter�
 * Prezentace: *Prostředí managementu* – Helena Chládková, Mendelova univerzita
 * PORTER, Michael E. (1985). *Competitive Advantage*
 * McKINSEY & Company – 7S Framework
+
+[<- Domů](../../README.md)

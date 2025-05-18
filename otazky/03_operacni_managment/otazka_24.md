@@ -83,3 +83,5 @@ Tyto projektové principy se uplatňují napříč celým procesem vývoje produ
 **Zdroje:**
 - CLOUDFRESH. *Proces vývoje produktu: Jak vyvinout produkt v 6 fázích*. [online]. Publikováno 13.07.2023. [cit. 2025-05-16].
 - *Řízení projektů*. Prezentace EBC-POMA-P9-Projekty.txt. Interní materiály předmětu.
+
+[<- Domů](../../README.md)

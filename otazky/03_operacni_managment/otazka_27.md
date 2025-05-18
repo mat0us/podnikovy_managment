@@ -25,3 +25,5 @@ Zařazení atributů se může v čase měnit podle vývoje trhu a očekávání
 ---
 
 ![](../../obr\kano.png)
+
+[<- Domů](../../README.md)

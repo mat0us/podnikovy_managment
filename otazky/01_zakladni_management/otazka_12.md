@@ -32,3 +32,5 @@ Každý manažer hraje tyto tři základní formální role:
 - Analýza
 - Rozhodování
 - Implementace
+
+[<- Domů](../../README.md)

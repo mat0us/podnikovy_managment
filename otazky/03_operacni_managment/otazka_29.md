@@ -34,3 +34,5 @@
 
 - **BOA (BedarfsOrientierte Auftragsfreigabe)**
     - Uvolňování zakázek do výroby podle potřeby, stále v rámci principu tlaku.
+
+[<- Domů](../../README.md)

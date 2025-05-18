@@ -49,3 +49,5 @@ Procesní přístup umožňuje organizacím lépe porozumět tomu, jak skutečn�
 **Zdroje:**
 - *Analýza procesů*. Prezentace EBC-POMA-S4-Procesy.pptx. 
 - Norma ČSN EN ISO 9001:2016 Systémy managementu kvality – Požadavky.
+
+[<- Domů](../../README.md)

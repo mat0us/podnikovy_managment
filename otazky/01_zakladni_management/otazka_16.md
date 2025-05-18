@@ -103,3 +103,4 @@ graph TB
     end
 ```
 
+[<- Domů](../../README.md)

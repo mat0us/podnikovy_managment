@@ -16,3 +16,5 @@ Použití ABC analýzy probíhá v několika krocích:
 5. Na základě kumulativních podílů se položky rozdělí do skupin A (60 %), B (25 %) a C (15 %).
 
 Hranice mezi skupinami nejsou pevně stanoveny a mohou se lišit podle potřeb podniku. Výsledky ABC analýzy se často vizualizují pomocí Lorenzovy křivky. Tato metoda je jednoduchým, ale velmi efektivním nástrojem pro zlepšení rozhodování a optimalizaci procesů v mnoha oblastech podnikového řízení.
+
+[<- Domů](../../README.md)

@@ -47,3 +47,5 @@
     - Princip Just-In-Time (JIT) – minimalizace zásob, dodávky přesně včas
 
 Úspěšné řízení zásob vyžaduje kombinaci přesného plánování, efektivní kontroly a využití vhodných metod a technologií s cílem minimalizovat náklady a zajistit dostupnost zásob.
+
+[<- Domů](../../README.md)

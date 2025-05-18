@@ -1,4 +1,4 @@
-# Otázka 10: Proveďte SWOT analýzu pro konkrétní podnik (např. PEF MENDELU) – uveďte konkrétní příklady pro jednotlivá písmena.
+# Otázka 10: Navrhněte strategii SO pro PEF MENDELU s tím, že uvedete alespoň 5 faktorů S a 5 O. 
 
 SWOT analýza je základní nástroj strategického plánování, který pomáhá organizaci identifikovat její **S**ilné stránky (Strengths), **S**labé stránky (Weaknesses), **P**říležitosti (Opportunities) a **H**rozby (Threats). Silné a slabé stránky se týkají vnitřního prostředí organizace, zatímco příležitosti a hrozby se vztahují k jejímu vnějšímu prostředí. Cílem je využít silné stránky a příležitosti, minimalizovat slabé stránky a čelit hrozbám.
 
@@ -86,3 +86,4 @@ Provedení SWOT analýzy je prvním krokem. Následně by měla fakulta formulov
 *   *EBC-POMA-P9.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Zmínka o SWOT v kontextu DMAIC.)
 *   *EBC-POMA-S5-Kvalita.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Zmínka o SWOT v kontextu strategie PEF MENDELU.)
 
+[<- Domů](../../README.md)

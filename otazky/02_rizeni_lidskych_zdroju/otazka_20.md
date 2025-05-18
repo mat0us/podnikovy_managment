@@ -40,3 +40,4 @@ Pracovní smlouva musí být uzavřena písemně. I když zákoník práce pří
 
 *   DUDA, Jiří. *Pracovni_smlouva,_DPP,_DPC,_Svarc.pdf*. Interní materiály předmětu. (Citováno konkrétně ze stran 4-5).
 
+[<- Domů](../../README.md)
