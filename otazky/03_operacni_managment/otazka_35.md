@@ -1,4 +1,11 @@
-## Model Evropské nadace pro management kvality (EFQM)
+<div align="center">
+
+| [⬅️ Předchozí](otazka_34.md) | [🏠 Domů](../../README.md) |
+|:-------------------------:|:---------------------------:|
+
+</div>
+
+## Jak byste popsali model EFQM a jeho základní principy
 
 Model EFQM představuje systematický a strategický rámec pro zlepšování výkonnosti organizací, který vychází z principů Total Quality Managementu (TQM). Slouží jako dynamický metodický nástroj pro řízení změn a transformací a je často vnímán jako alternativa k normám ISO.
 
@@ -12,4 +19,11 @@ Hlavní charakteristiky modelu EFQM:
 
 Model EFQM je vhodný pro organizace, které hledají komplexní a osvědčený rámec pro řízení kvality a trvalé zlepšování.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_34.md) | [🏠 Domů](../../README.md) |
+|:-------------------------:|:---------------------------:|
+
+</div>

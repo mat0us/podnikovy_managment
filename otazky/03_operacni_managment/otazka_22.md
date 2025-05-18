@@ -1,4 +1,11 @@
-# Otázka 22: Popište procesní přístup k managementu.
+<div align="center">
+
+| [⬅️ Předchozí](../02_rizeni_lidskych_zdroju/otazka_21.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_23.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište procesní přístup k managementu.
 
 **Procesní přístup k managementu** představuje způsob řízení organizace, který se zaměřuje na identifikaci, pochopení, řízení a neustálé zlepšování jejích klíčových procesů. Na rozdíl od tradičního funkčního přístupu, který organizaci člení podle hierarchie oddělení a funkcí (např. nákup, výroba, prodej), procesní přístup klade důraz na horizontální toky činností napříč funkčními útvary s cílem maximalizovat hodnotu pro zákazníka.
 
@@ -48,6 +55,12 @@ Procesní přístup umožňuje organizacím lépe porozumět tomu, jak skutečn�
 
 **Zdroje:**
 - *Analýza procesů*. Prezentace EBC-POMA-S4-Procesy.pptx. 
-- Norma ČSN EN ISO 9001:2016 Systémy managementu kvality – Požadavky.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](../02_rizeni_lidskych_zdroju/otazka_21.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_23.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

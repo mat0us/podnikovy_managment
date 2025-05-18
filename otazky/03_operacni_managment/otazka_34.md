@@ -1,6 +1,15 @@
-# Otázka 34: Co je podstatou standardů ISO 9000?
+<div align="center">
 
-Standardy ISO 9000 představují mezinárodně uznávaný rámec pro systémy managementu kvality (QMS). Jejich cílem je sjednotit požadavky na řízení organizace, zefektivnit procesy a zvýšit spokojenost zákazníků. Nejde o produktové normy, ale o systémové požadavky zaměřené na procesy ovlivňující kvalitu produktů a služeb.
+| [⬅️ Předchozí](otazka_33.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_35.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Co je podstatou standardů ISO 9000?
+
+Standardy **ISO 9000** představují mezinárodně uznávaný rámec pro systémy managementu kvality (QMS). Jejich cílem je sjednotit požadavky na řízení organizace, zefektivnit procesy a zvýšit spokojenost zákazníků. 
+
+**!!Nejde o produktové normy, ale o systémové požadavky zaměřené na procesy ovlivňující kvalitu produktů a služeb!!**
 
 Hlavní principy ISO 9000:
 - **Jednotná terminologie a jasně definované pojmy** – usnadňují komunikaci a porozumění v oblasti kvality.
@@ -16,4 +25,11 @@ ISO 9001 je nejznámější norma této rodiny a stanovuje konkrétní požadavk
 
 ISO 9000 je tedy nástroj pro systematické řízení kvality, který pomáhá organizacím zlepšovat procesy, snižovat náklady a posilovat konkurenceschopnost. Je však třeba chápat jej jako základní rámec a začátek cesty ke skutečné spokojenosti zákazníků, nikoli jako záruku dokonalosti.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_33.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_35.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

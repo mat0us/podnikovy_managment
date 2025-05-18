@@ -1,4 +1,11 @@
-# Otázka 25: Popište Taguchiho přístup k vývoji produktu
+<div align="center">
+
+| [⬅️ Předchozí](otazka_24.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_26.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište Taguchiho přístup k vývoji produktu
 
 Taguchiho přístup k vývoji produktu je systematická metoda zaměřená na **minimalizaci variability** a **zvýšení odolnosti** výrobků a procesů vůči rušivým vlivům (tzv. šumové faktory). Hlavní cíle jsou **vysoká kvalita** a **nízké náklady**.
 
@@ -30,4 +37,11 @@ Taguchiho přístup k vývoji produktu je systematická metoda zaměřená na **
 
 ![](../../obr/otazka_25_2.png)
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_24.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_26.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

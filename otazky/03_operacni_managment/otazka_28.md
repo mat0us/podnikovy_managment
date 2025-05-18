@@ -1,4 +1,11 @@
-# Otázka 28: Co je a k čemu slouží analýza citlivosti?
+<div align="center">
+
+| [⬅️ Předchozí](otazka_27.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_29.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Co je a k čemu slouží analýza citlivosti?
 
 **Analýza citlivosti** je technika používaná k určení, jak změny vstupních proměnných v modelu ovlivňují výstupní výsledky. Pomáhá pochopit, které vstupní faktory mají největší dopad na výsledky a jak se tyto výsledky mohou měnit při různých scénářích. Typicky se využívá například ve financích, projektovém řízení nebo inženýrství.
 
@@ -53,4 +60,11 @@
 **Shrnutí:**  
 Analýza citlivosti je důležitý nástroj pro pochopení nejistot, řízení rizik a lepší rozhodování v nejistých podmínkách.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_27.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_29.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

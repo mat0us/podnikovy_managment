@@ -1,4 +1,11 @@
-# Otázka 2: Jaké znáte post-klasické teorie (přístupy) managementu? Stručně charakterizujte.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_1.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_3.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Jaké znáte post-klasické teorie (přístupy) managementu? Stručně charakterizujte.
 
 Post-klasické teorie managementu navazují na klasické školy, ale reflektují komplexnější chápání organizací, lidského chování a vlivu vnějšího prostředí. Tyto přístupy se začaly rozvíjet přibližně od poloviny 20. století a zahrnují širší spektrum disciplín, včetně psychologie, sociologie, matematiky a systémové teorie. Mezi hlavní post-klasické přístupy patří psychologicko-sociální přístupy, kvantitativní přístupy, empirické (pragmatické) přístupy, systémové přístupy a procesní přístupy.
 
@@ -88,4 +95,11 @@ Post-klasické teorie managementu navazují na klasické školy, ale reflektují
 *   *EBC-POMA-P1.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o post-klasických teoriích managementu byly čerpány z tohoto zdroje.)
 *   POŠVÁŘ, Zdeněk a Helena CHLÁDKOVÁ, 2014. *Management*. 2. vyd. Brno: Mendelova univerzita v Brně. ISBN 978-80-7509-127-7. (Doplnění a rozšíření informací.)
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_1.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_3.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

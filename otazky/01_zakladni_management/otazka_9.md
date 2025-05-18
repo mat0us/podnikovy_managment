@@ -1,4 +1,11 @@
-# Otázka 9: Popište cíle, obsah a zásady delegování a na konkrétním příkladu uveďte princip pevného a volného delegování.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_8.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_10.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište cíle, obsah a zásady delegování a na konkrétním příkladu uveďte princip pevného a volného delegování.
 
 Delegování je klíčovou manažerskou dovedností a procesem, při kterém manažer přenáší na svého podřízeného jasně vymezenou část své pravomoci a odpovědnosti za splnění určitých úkolů. Nejde jen o přidělování práce, ale o zmocnění podřízených k samostatnému jednání a rozhodování v rámci svěřené oblasti.
 
@@ -76,4 +83,11 @@ Volba mezi pevným a volným delegováním závisí na mnoha faktorech, včetně
 *   *Vedeni.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o delegování v kontextu stylů vedení.)
 *   Obecné znalosti z oblasti managementu a delegování.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_8.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_10.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

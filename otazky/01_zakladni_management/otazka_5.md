@@ -1,4 +1,11 @@
-# Otázka 5: Nakreslete a vysvětlete princip situačního vedení.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_4.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_6.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Nakreslete a vysvětlete princip situačního vedení.
 
 Situační vedení je jedním z moderních přístupů k vedení lidí, který zdůrazňuje, že neexistuje jeden univerzálně nejlepší styl vedení. Efektivní manažer by měl být schopen přizpůsobit svůj styl vedení konkrétní situaci, zejména úrovni zralosti (připravenosti) svých podřízených ve vztahu k danému úkolu. Tento přístup je často označován jako koncepce "pokud – pak", tedy pokud nastane určitá situace (např. podřízený je nezkušený, ale motivovaný), pak manažer zvolí odpovídající styl vedení.
 
@@ -65,4 +72,11 @@ Princip situačního vedení spočívá v flexibilitě manažera a jeho schopnos
 *   *Vedeni.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o situačním vedení, Hersey-Blanchardově modelu a stylech S1-S4 byly čerpány z tohoto zdroje.)
 *   Obecné znalosti z oblasti managementu a teorie vedení.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_4.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_6.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

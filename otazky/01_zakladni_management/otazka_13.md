@@ -1,4 +1,11 @@
-## Otázka 13: Jaké znáte styly vedení? Charakterizujte alespoň 3 z nich a jeden z nich popište na příkladu.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_12.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_14.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Jaké znáte styly vedení? Charakterizujte alespoň 3 z nich a jeden z nich popište na příkladu.
 
 ## 1. Vedení založené na osobnosti a chování manažera
 
@@ -68,4 +75,11 @@ Manažer týmu vývojářů praktikuje demokratický styl vedení:
 
 **Výsledky:** Tým se cítí zapojen do rozhodování, což zvyšuje motivaci a odpovědnost. Díky využití kolektivní inteligence vznikají inovativnější řešení. Současně je zachována jasná struktura vedení, kde manažer nese konečnou odpovědnost za projekt.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_12.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_14.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

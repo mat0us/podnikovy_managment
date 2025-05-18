@@ -1,4 +1,11 @@
-# Otázka 16: Navrhněte, nakreslete a vysvětlete organizační strukturu univerzity.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_15.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_17.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Navrhněte, nakreslete a vysvětlete organizační strukturu univerzity.
 
 **Odpověď:**
 
@@ -103,4 +110,11 @@ graph TB
     end
 ```
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_15.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_17.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

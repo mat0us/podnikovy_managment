@@ -1,4 +1,11 @@
-# Otázka 4: Stručně charakterizujte 3 metody týmového rozhodování (uveďte jejich princip včetně výběru správného řešení).
+<div align="center">
+
+| [⬅️ Předchozí](otazka_3.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_5.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Stručně charakterizujte 3 metody týmového rozhodování (uveďte jejich princip včetně výběru správného řešení).
 
 Týmové rozhodování je proces, při kterém skupina lidí společně analyzuje problémy, generuje alternativy a vybírá nejvhodnější řešení. Zapojení více lidí může přinést širší spektrum názorů, zkušeností a kreativních nápadů, což často vede ke kvalitnějším rozhodnutím a vyšší míře akceptace těchto rozhodnutí ze strany těch, kterých se týkají. Existuje mnoho metod týmového rozhodování, z nichž každá má své specifické principy a postupy.
 
@@ -81,4 +88,11 @@ Týmové rozhodování je proces, při kterém skupina lidí společně analyzuj
 - _Rozhodovani-zaklad.pptx_ [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o metodách týmového rozhodování byly čerpány z tohoto zdroje.)
 - FOTR, Jiří a Lenka ŠVECOVÁ, 2016. _Manažerské rozhodování: postupy, metody a nástroje_. Třetí, přepracované vydání. Praha: Ekopress. ISBN 978-80-87865-33-0. (Doplnění a rozšíření informací o principech a postupech metod.)
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_3.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_5.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

@@ -1,4 +1,11 @@
-# Otázka 29: Popište princip tlaku a metody, které se v jeho rámci používají.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_28.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_30.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište princip tlaku a metody, které se v jeho rámci používají.
 
 ## Princip tlaku (push systém)
 
@@ -35,4 +42,11 @@
 - **BOA (BedarfsOrientierte Auftragsfreigabe)**
     - Uvolňování zakázek do výroby podle potřeby, stále v rámci principu tlaku.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_28.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_30.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

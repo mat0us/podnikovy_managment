@@ -1,4 +1,11 @@
-# Otázka 20: Uveďte 6 povinných části pracovní smlouvy.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_19.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_21.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Uveďte 6 povinných části pracovní smlouvy.
 
 **Odpověď:**
 
@@ -40,4 +47,11 @@ Pracovní smlouva musí být uzavřena písemně. I když zákoník práce pří
 
 *   DUDA, Jiří. *Pracovni_smlouva,_DPP,_DPC,_Svarc.pdf*. Interní materiály předmětu. (Citováno konkrétně ze stran 4-5).
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_19.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_21.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

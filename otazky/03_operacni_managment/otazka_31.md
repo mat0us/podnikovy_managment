@@ -1,4 +1,11 @@
-# Otázka 31: Popište principy řízení zásob
+<div align="center">
+
+| [⬅️ Předchozí](otazka_30.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_32.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište principy řízení zásob
 
 Řízení zásob je klíčovou součástí podnikového managementu, jejímž cílem je optimalizovat úroveň zásob tak, aby byly uspokojeny potřeby zákazníků a výrobních procesů při minimalizaci nákladů.
 
@@ -20,6 +27,7 @@
             - Cílem je minimalizace celkových nákladů na zásoby (objednací, skladovací, pořizovací).
             - Typickým příkladem je EOQ (Economic Order Quantity) – ekonomická velikost objednávky.
             - Modely určují optimální velikost objednávky a frekvenci doplňování zásob.
+
         - **Modely bez nákladové orientace**
 
         ![](../../obr\beznakladovy_diagram.png)
@@ -48,4 +56,11 @@
 
 Úspěšné řízení zásob vyžaduje kombinaci přesného plánování, efektivní kontroly a využití vhodných metod a technologií s cílem minimalizovat náklady a zajistit dostupnost zásob.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_30.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_32.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

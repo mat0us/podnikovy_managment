@@ -1,4 +1,11 @@
-# Otázka 24: Popište proces vývoje produktů.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_23.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_25.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište proces vývoje produktů.
 
 Proces vývoje produktů představuje systematický sled činností od prvotního nápadu až po uvedení finálního produktu na trh. Cílem je vytvořit produkt, který uspokojí potřeby zákazníků, je konkurenceschopný a přináší podniku zisk.
 
@@ -84,4 +91,11 @@ Tyto projektové principy se uplatňují napříč celým procesem vývoje produ
 - CLOUDFRESH. *Proces vývoje produktu: Jak vyvinout produkt v 6 fázích*. [online]. Publikováno 13.07.2023. [cit. 2025-05-16].
 - *Řízení projektů*. Prezentace EBC-POMA-P9-Projekty.txt. Interní materiály předmětu.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_23.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_25.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

@@ -1,4 +1,11 @@
-# Otázka 3: Vysvětlete rozdíl mezi PESTE a SWOT a pro jednotlivá písmena uveďte konkrétní faktory pro vybraný podnik.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_2.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_4.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Vysvětlete rozdíl mezi PESTE a SWOT a pro jednotlivá písmena uveďte konkrétní faktory pro vybraný podnik.
 
 PESTE (nebo častěji PESTEL/PESTLE) analýza a SWOT analýza jsou dva základní nástroje strategického managementu, které podnikům pomáhají porozumět svému prostředí a formulovat strategie. Ačkoliv se obě zabývají faktory ovlivňujícími podnik, liší se svým zaměřením a účelem.
 
@@ -119,4 +126,11 @@ Propojením těchto analýz může EkoZahrada s.r.o. lépe formulovat své strat
 *   *EBC-POMA-P2.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Doplnění informací o variantách PEST analýzy.)
 *   Obecné znalosti strategického managementu.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_2.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_4.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

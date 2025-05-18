@@ -1,4 +1,11 @@
-# Otázka 18: Stručně charakterizujte metody, které se doporučují využívat pro rozhodování v Time managementu.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_17.md) | [🏠 Domů](../../README.md) | [Následující ➡️](../02_rizeni_lidskych_zdroju/otazka_19.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Stručně charakterizujte metody, které se doporučují využívat pro rozhodování v Time managementu.
 
 **Odpověď:**
 
@@ -36,4 +43,11 @@ Kromě těchto základních metod se v time managementu využívají i další t
 *   RESERVIO. *9 time management tipů pro zaneprázdněné profesionály*. [online]. Publikováno 25. 01. 2024 [cit. 2024-05-16]. Dostupné z: https://www.reservio.com/cs/blog/lifestyle/9-time-management-tipu-pro-zaneprazdnene-profesionaly
 *   CHLÁDKOVÁ, Helena. *TECHNIKY_MANAGEMENTU-zaklad.pptx*. Interní materiály předmětu. (Poznámka: Ačkoliv prezentace přímo nepopisuje metody rozhodování v time managementu, poskytuje kontext k technikám řízení, které s time managementem souvisí, např. delegování.)
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_17.md) | [🏠 Domů](../../README.md) | [Následující ➡️](../02_rizeni_lidskych_zdroju/otazka_19.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

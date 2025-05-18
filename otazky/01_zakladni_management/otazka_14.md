@@ -1,5 +1,11 @@
+<div align="center">
 
-# Otázka 14: Na konkrétním příkladu vysvětlete, v jakých oblastech manažer rozhoduje, když plánuje.
+| [⬅️ Předchozí](otazka_13.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_15.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Na konkrétním příkladu vysvětlete, v jakých oblastech manažer rozhoduje, když plánuje.
 
 ## Příklad: Plánování vývoje a uvedení nové webové aplikace na trh
 
@@ -50,4 +56,11 @@
   - Uvedení na trh: listopad 2024
   - Vyhodnocení prvních výsledků: leden 2025
 
-  [<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_13.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_15.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

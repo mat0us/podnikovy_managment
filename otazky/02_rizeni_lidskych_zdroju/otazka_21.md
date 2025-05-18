@@ -1,4 +1,11 @@
-# Otázka 21: Vysvětlete princip zkušební doby uvedené v pracovní smlouvě a uveďte další charakteristiky týkající se zkušební doby.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_20.md) | [🏠 Domů](../../README.md) | [Následující ➡️](../03_operacni_managment/otazka_22.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Vysvětlete princip zkušební doby uvedené v pracovní smlouvě a uveďte další charakteristiky týkající se zkušební doby.
 
 **Odpověď:**
 
@@ -39,4 +46,11 @@ Je důležité si uvědomit, že zkušební doba není automatickou součástí 
 *   DUDA, Jiří. *Pracovni_smlouva,_DPP,_DPC,_Svarc.pdf*. Interní materiály předmětu. (Citováno konkrétně ze strany 7, § 35 ZP).
 *   Zákon č. 262/2006 Sb., zákoník práce, v platném znění. (Obecně jako primární zdroj právní úpravy zkušební doby).
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_20.md) | [🏠 Domů](../../README.md) | [Následující ➡️](../03_operacni_managment/otazka_22.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

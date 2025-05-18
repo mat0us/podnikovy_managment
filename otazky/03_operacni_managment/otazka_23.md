@@ -1,4 +1,11 @@
-# Otázka 23: K čemu slouží metoda SIPOC?
+<div align="center">
+
+| [⬅️ Předchozí](otazka_22.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_24.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# K čemu slouží metoda SIPOC?
 
 Metoda SIPOC je jednoduchý, ale účinný nástroj používaný v procesním řízení a managementu kvality (zejména v metodikách jako Six Sigma) k získání rychlého a vysokoúrovňového přehledu o jakémkoliv procesu. Název SIPOC je akronym složený z počátečních písmen anglických slov, která definují klíčové prvky procesu:
 
@@ -67,4 +74,11 @@ Tento jednoduchý SIPOC diagram jasně ukazuje, kdo a co je zapotřebí pro př�
 
 *   *Analýza procesů*. Prezentace EBC-POMA-S4-Procesy.pptx. Interní materiály předmětu. (Citováno konkrétně ze snímků 13, 14, 44 a inspirováno snímky 15-21).
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_22.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_24.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

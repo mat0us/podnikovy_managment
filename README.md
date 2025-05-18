@@ -1,45 +1,90 @@
-# Podnikový Management - Zkouškové Otázky
+# 📚 Podnikový Management – Zkouškové Otázky
 
-## 1. Základní Management
+> Přehled otázek ke zkoušce z předmětu Podnikový management. Každá otázka je odkazem na detailní odpověď.
 
-1. [Otázka 1: Základy managementu](otazky/01_zakladni_management/otazka_1.md)
-2. [Otázka 2: Styly vedení](otazky/01_zakladni_management/otazka_2.md)
-3. [Otázka 3: Organizační struktury](otazky/01_zakladni_management/otazka_3.md)
-4. [Otázka 4: Metody týmového rozhodování](otazky/01_zakladni_management/otazka_4.md)
-5. [Otázka 5: Motivace zaměstnanců](otazky/01_zakladni_management/otazka_5.md)
-6. [Otázka 6: Kontrola v managementu](otazky/01_zakladni_management/otazka_6.md)
-7. [Otázka 7: Organizační struktura výrobního podniku](otazky/01_zakladni_management/otazka_7.md)
-8. [Otázka 8: Analýza vnitřního prostředí](otazky/01_zakladni_management/otazka_8.md)
-9. [Otázka 9: Delegování](otazky/01_zakladni_management/otazka_9.md)
-10. [Otázka 10: Manažerské funkce](otazky/01_zakladni_management/otazka_10.md)
-11. [Otázka 11: Komunikace v organizaci](otazky/01_zakladni_management/otazka_11.md)
-12. [Otázka 12: Manažerské role](otazky/01_zakladni_management/otazka_12.md)
-13. [Otázka 13: Demokratický styl vedení](otazky/01_zakladni_management/otazka_13.md)
-14. [Otázka 14: Manažerské plánování](otazky/01_zakladni_management/otazka_14.md)
-15. [Otázka 15: Organizační kultura](otazky/01_zakladni_management/otazka_15.md)
-16. [Otázka 16: Organizační struktura univerzity](otazky/01_zakladni_management/otazka_16.md)
-17. [Otázka 17: Řízení změn](otazky/01_zakladni_management/otazka_17.md)
-18. [Otázka 18: Time management](otazky/01_zakladni_management/otazka_18.md)
+---
 
-## 2. Řízení Lidských Zdrojů
+<div align="center">
 
-19. [Otázka 19: Získávání a výběr pracovníků](otazky/02_rizeni_lidskych_zdroju/otazka_19.md)
-20. [Otázka 20: Povinné části pracovní smlouvy](otazky/02_rizeni_lidskych_zdroju/otazka_20.md)
-21. [Otázka 21: Hodnocení pracovníků](otazky/02_rizeni_lidskych_zdroju/otazka_21.md)
+| Oblast | Rozsah | Ikona |
+|--------|--------|-------|
+| **Základní Management** | 1–18 | 🏢 |
+| **Řízení Lidských Zdrojů** | 19–21 | 👥 |
+| **Operační Management** | 22–35 | ⚙️ |
 
-## 3. Operační Management
+</div>
 
-22. [Otázka 22: Řízení výroby](otazky/03_operacni_managment/otazka_22.md)
-23. [Otázka 23: Metoda SIPOC](otazky/03_operacni_managment/otazka_23.md)
-24. [Otázka 24: Systémy řízení jakosti](otazky/03_operacni_managment/otazka_24.md)
-25. [Otázka 25: Logistika v podniku](otazky/03_operacni_managment/otazka_25.md)
-26. [Otázka 26: Procesní řízení](otazky/03_operacni_managment/otazka_26.md)
-27. [Otázka 27: Supply Chain Management](otazky/03_operacni_managment/otazka_27.md)
-28. [Otázka 28: Just-in-Time](otazky/03_operacni_managment/otazka_28.md)
-29. [Otázka 29: Řízení projektů](otazky/03_operacni_managment/otazka_29.md)
-30. [Otázka 30: Lean Management](otazky/03_operacni_managment/otazka_30.md)
-31. [Otázka 31: Principy řízení zásob](otazky/03_operacni_managment/otazka_31.md)
-32. [Otázka 32: Plánování kapacit](otazky/03_operacni_managment/otazka_32.md)
-33. [Otázka 33: Řízení kvality](otazky/03_operacni_managment/otazka_33.md)
-34. [Otázka 34: Optimalizace procesů](otazky/03_operacni_managment/otazka_34.md)
-35. [Otázka 35: Informační systémy v managementu](otazky/03_operacni_managment/otazka_35.md)
+---
+
+## 🏢 Základní Management
+
+<details>
+<summary><strong>1–18: Základní otázky managementu</strong></summary>
+
+<ol>
+<li><a href="otazky/01_zakladni_management/otazka_1.md">Klasické teorie (školy) managementu – stručná charakteristika</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_2.md">Post-klasické teorie managementu – stručná charakteristika</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_3.md">Rozdíl mezi PESTE a SWOT, konkrétní faktory</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_4.md">3 metody týmového rozhodování – principy a výběr řešení</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_5.md">Situační vedení – princip a schéma</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_6.md">Identita vs. image podniku, příklad komponent</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_7.md">Organizační struktura pro podnik s jedním výrobkem</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_8.md">3 metody analýzy vnitřního prostředí</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_9.md">Delegování – cíle, zásady, pevné vs. volné</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_10.md">Strategie SO pro PEF MENDELU (5×S, 5×O)</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_11.md">Porterův diamant – schéma a využití</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_12.md">Manažerské role vs. funkce</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_13.md">Styly vedení – 3 typy, příklad</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_14.md">Oblasti rozhodování při plánování – příklad</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_15.md">Strategický, taktický a operativní plán pro konkrétní podnik</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_16.md">Organizační struktura univerzity – návrh a vysvětlení</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_17.md">Riziko a typy manažerů dle přístupu k riziku</a></li>
+<li><a href="otazky/01_zakladni_management/otazka_18.md">Metody rozhodování v Time managementu</a></li>
+</ol>
+
+</details>
+
+---
+
+## 👥 Řízení Lidských Zdrojů
+
+<details>
+<summary><strong>19–21: HR otázky</strong></summary>
+
+<ol start="19">
+<li><a href="otazky/02_rizeni_lidskych_zdroju/otazka_19.md">7 znaků Švarc systému (nelegální zaměstnávání)</a></li>
+<li><a href="otazky/02_rizeni_lidskych_zdroju/otazka_20.md">6 povinných částí pracovní smlouvy</a></li>
+<li><a href="otazky/02_rizeni_lidskych_zdroju/otazka_21.md">Princip a charakteristiky zkušební doby</a></li>
+</ol>
+
+</details>
+
+---
+
+## ⚙️ Operační Management
+
+<details>
+<summary><strong>22–35: Operační management</strong></summary>
+
+<ol start="22">
+<li><a href="otazky/03_operacni_managment/otazka_22.md">Procesní přístup k managementu</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_23.md">Metoda SIPOC – účel a využití</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_24.md">Proces vývoje produktů</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_25.md">Taguchiho přístup k vývoji produktu</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_26.md">Dům kvality – složení</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_27.md">Model Kano – popis</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_28.md">Analýza citlivosti – účel</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_29.md">Princip tlaku a používané metody</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_30.md">Princip tahu a používané metody</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_31.md">Principy řízení zásob</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_32.md">ABC analýza – účel a použití</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_33.md">Kvalita – definice, transformační přístup, zlepšování</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_34.md">Standardy ISO 9000 – podstata</a></li>
+<li><a href="otazky/03_operacni_managment/otazka_35.md">Model EFQM a jeho principy</a></li>
+</ol>
+
+</details>
+
+---
+
+> ℹ️ **Tip:** Kliknutím na otázku zobrazíte detailní odpověď.

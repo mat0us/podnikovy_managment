@@ -1,4 +1,11 @@
-# Otázka 1: Jaké znáte klasické teorie (školy) managementu? Stručně charakterizujte.
+<div align="center">
+
+| [🏠 Domů](../../README.md) | [Následující ➡️](otazka_2.md) |
+|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Jaké znáte klasické teorie (školy) managementu? Stručně charakterizujte.
 
 Klasické teorie managementu položily základy moderního chápání řízení organizací. Mezi nejvýznamnější patří škola vědeckého řízení, škola lidských vztahů, škola správního řízení a škola byrokratického řízení. Tyto teorie se snažily systematizovat a zefektivnit práci a řízení v tehdy se rychle industrializujících společnostech.
 
@@ -73,4 +80,11 @@ Klasické teorie managementu položily základy moderního chápání řízení 
 
 *   *EBC-POMA-P1.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o klasických teoriích managementu byly čerpány z tohoto zdroje.)
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [🏠 Domů](../../README.md) | [Následující ➡️](otazka_2.md) |
+|:---------------------------:|:-----------------------------:|
+
+</div>

@@ -1,4 +1,11 @@
-# Otázka 8: Charakterizujte alespoň 3 metody používané pro analýzu vnitřního prostředí
+<div align="center">
+
+| [⬅️ Předchozí](otazka_7.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_9.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Charakterizujte alespoň 3 metody používané pro analýzu vnitřního prostředí
 
 Analýza vnitřního prostředí podniku se zaměřuje na identifikaci faktorů a schopností uvnitř organizace, které ovlivňují její výkonnost a konkurenceschopnost. Tyto analýzy slouží k odhalení silných a slabých stránek podniku, což je klíčové pro formulaci vhodné strategie. Mezi základní metody patří:
 
@@ -97,4 +104,11 @@ SWOT analýza pomáhá vedení podniku lépe pochopit jeho pozici a připravit s
 * PORTER, Michael E. (1985). *Competitive Advantage*
 * McKINSEY & Company – 7S Framework
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_7.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_9.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

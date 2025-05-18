@@ -1,4 +1,11 @@
-# Otázka 30: Popište princip tahu a metody, které se v jeho rámci používají.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_29.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_31.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište princip tahu a metody, které se v jeho rámci používají.
 
 Princip tahu (pull system) v řízení výroby je moderní přístup, který je protikladem tradičního tlakového systému. V tahovém systému je výrobní aktivita na každém pracovišti iniciována skutečnou potřebou (poptávkou) z následujícího pracoviště nebo od konečného zákazníka. Výroba se spouští teprve ve chvíli, kdy máme informaci z následujícího pracoviště o volné kapacitě nebo potřebě materiálu. Materiál a rozpracované výrobky jsou „tahány“ výrobním procesem podle aktuálních požadavků, což vede k minimalizaci zásob rozpracované výroby, zkrácení průběžných dob a zvýšení flexibility i efektivity celého systému.
 
@@ -38,4 +45,11 @@ Existují různé typy kanbanů, například výrobní kanban (autorizuje výrob
 
 Princip tahu je základním kamenem štíhlé výroby a jeho implementace vede k významnému zlepšení efektivity, snížení nákladů a zvýšení schopnosti reagovat na změny v poptávce.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_29.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_31.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

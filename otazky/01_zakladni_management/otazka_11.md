@@ -1,3 +1,10 @@
+<div align="center">
+
+| [⬅️ Předchozí](otazka_10.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_12.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
 # Nakreslete a vysvětlete Porterův diamant a uveďte, k čemu slouží.
 
 ## Porterův diamant
@@ -32,4 +39,11 @@ Rád vysvětlím jednotlivé body jednodušeji:
 
 - **Slouží k pochopení toho, proč určité národy nebo regiony vynikají v konkrétních průmyslových odvětvích** - Model vysvětluje, proč například Švýcarsko vyniká v hodinářství nebo Itálie v módním průmyslu.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_10.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_12.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

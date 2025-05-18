@@ -1,4 +1,11 @@
-# Otázka 12: Vysvětlete, co je manažerská role, uveďte, jaké formální role hraje každý manažer a v čem se role liší od funkcí manažera.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_11.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_13.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Vysvětlete, co je manažerská role, uveďte, jaké formální role hraje každý manažer a v čem se role liší od funkcí manažera.
 
 ## Manažerská role
 
@@ -33,4 +40,11 @@ Každý manažer hraje tyto tři základní formální role:
 - Rozhodování
 - Implementace
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_11.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_13.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

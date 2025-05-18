@@ -1,4 +1,11 @@
-# Otázka 15: Pro konkrétní podnik (jehož hlavní předmět činnosti uvedete) navrhněte strategický taktický a operativní plán.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_14.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_16.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Pro konkrétní podnik (jehož hlavní předmět činnosti uvedete) navrhněte strategický taktický a operativní plán.
 
 ## Podnik: Společnost NatureDrink
 
@@ -60,4 +67,11 @@
 - Marketingová kampaň: 800 000 Kč
 - Distribuce a logistika: 400 000 Kč
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_14.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_16.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

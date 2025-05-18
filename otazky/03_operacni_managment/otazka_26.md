@@ -1,4 +1,11 @@
-# Otázka 26: Z čeho se skládá „Dům kvality“?
+<div align="center">
+
+| [⬅️ Předchozí](otazka_25.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_27.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Z čeho se skládá „Dům kvality“?
 
 „Dům kvality“ (Quality Function Deployment, QFD) je nástroj pro převod požadavků zákazníka do technických parametrů produktu. Jeho hlavní části jsou:
 
@@ -52,4 +59,11 @@
                             Spodní část (cíle, obtížnost)
 ```
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_25.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_27.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

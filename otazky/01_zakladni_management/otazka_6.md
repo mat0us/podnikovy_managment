@@ -1,4 +1,11 @@
-# Otázka 6: Vysvětlete vztah mezi identitou a image podniku a na příkladu konkrétního podniku uveďte komponenty identity (image) podniku.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_5.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_7.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Vysvětlete vztah mezi identitou a image podniku a na příkladu konkrétního podniku uveďte komponenty identity (image) podniku.
 
 Identita podniku (corporate identity) a image podniku (corporate image) jsou dva úzce propojené, avšak odlišné koncepty, které hrají klíčovou roli v tom, jak je podnik vnímán svým okolím a jak se odlišuje od konkurence. Porozumění jejich vztahu a jednotlivým komponentám je zásadní pro budování silné a pozitivní značky.
 
@@ -51,4 +58,11 @@ Identita podniku se obvykle skládá z několika klíčových komponent, které 
 *   BLAŽEK, Ladislav, 2014. *Management: organizování, rozhodování, ovlivňování*. 2., rozš. vyd. Praha: Grada Publishing. Expert (Grada). ISBN 978-80-247-4429-2. (Doplnění informací o komponentách identity a jejich praktické aplikaci.)
 *   Obecné znalosti o společnosti Apple Inc. a jejím marketingu.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_5.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_7.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

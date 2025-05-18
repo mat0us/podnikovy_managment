@@ -1,4 +1,11 @@
-# Otázka 7: Navrhněte, nakreslete a vysvětlete organizační strukturu pro podnik vyrábějící jeden typ výrobku.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_6.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_8.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Navrhněte, nakreslete a vysvětlete organizační strukturu pro podnik vyrábějící jeden typ výrobku.
 
 Pro podnik, který vyrábí pouze jeden typ výrobku, je často nejvhodnější a nejefektivnější **funkcionální (funkční) organizační struktura**. Tento typ struktury seskupuje zaměstnance a činnosti podle podobných funkcí nebo specializací. Je charakteristická jasnou hierarchií a centralizovaným rozhodováním, což může být výhodné pro menší až středně velké podniky s úzkým produktovým portfoliem.
 
@@ -83,4 +90,11 @@ graph TD
 *   *Organizovani-zaklad.pptx* [PowerPointová prezentace]. Poskytnuto jako studijní materiál. (Informace o typech organizačních struktur, zejména funkcionální struktuře.)
 *   Obecné znalosti z oblasti organizačních struktur a managementu.
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_6.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_8.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

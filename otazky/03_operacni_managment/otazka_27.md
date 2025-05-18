@@ -1,4 +1,11 @@
-# Otázka 27: Popište model Kano.
+<div align="center">
+
+| [⬅️ Předchozí](otazka_26.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_28.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Popište model Kano.
 
 Kano model, vyvinutý v 80. letech 20. století profesorem Noriaki Kanem, je teorie produktového vývoje a zákaznické spokojenosti, která poskytuje rámec pro pochopení toho, jak různé vlastnosti produktu nebo služby ovlivňují spokojenost zákazníků. Tento model umožňuje organizacím efektivně prioritizovat vývojové úsilí tím, že klasifikuje preference zákazníků, respektive atributy produktu, do několika odlišných kategorií podle jejich vlivu na spokojenost.
 
@@ -26,4 +33,11 @@ Zařazení atributů se může v čase měnit podle vývoje trhu a očekávání
 
 ![](../../obr\kano.png)
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](otazka_26.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_28.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>

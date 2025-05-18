@@ -1,4 +1,11 @@
-# Otázka 19: Uveďte 7 znaků tzv. Švarc systému (nelegální zaměstnávání podnikatele podnikatelem).
+<div align="center">
+
+| [⬅️ Předchozí](../01_zakladni_management/otazka_18.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_20.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
+
+# Uveďte 7 znaků tzv. Švarc systému (nelegální zaměstnávání podnikatele podnikatelem).
 
 **Odpověď:**
 
@@ -35,4 +42,11 @@ Firma XYZ, s.r.o., která se zabývá vedením účetnictví, má několik zamě
 
 *   DUDA, Jiří. *Pracovni_smlouva,_DPP,_DPC,_Svarc.pdf*. Interní materiály předmětu. (Citováno konkrétně ze stran 20-24).
 
-[<- Domů](../../README.md)
+---
+
+<div align="center">
+
+| [⬅️ Předchozí](../01_zakladni_management/otazka_18.md) | [🏠 Domů](../../README.md) | [Následující ➡️](otazka_20.md) |
+|:-------------------------:|:---------------------------:|:-----------------------------:|
+
+</div>
